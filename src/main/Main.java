@@ -23,6 +23,9 @@ public class Main {
 	 Calculator cal = new Calculator();
 	 int addResult = cal.add(1, 2);
 	 System.out.println(addResult);
+	
+	    int addResult1 = cal.subtraciton(8, 1);
+	   System.out.println(addResult1);
 	}
 
 }
