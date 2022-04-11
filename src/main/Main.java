@@ -7,6 +7,9 @@ public class Main {
 		
 		
 		 System.out.println("로컬 저장소 사용");
+	   System.out.println("원격 저장소 사용");
+	
+	
 	}
 
 }
